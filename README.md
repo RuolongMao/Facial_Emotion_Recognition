@@ -304,6 +304,6 @@ plt.show()
 ```
 
 ## Contribution
-**Ruolong Mao**: BaselineCNN - 55%.ipynb, BaselineCNN_Improved - 62%.ipynb, Final_Model_with_Visualization_And_GradCAM - best 77%
-**Yunshu Qiu**: Final_Model_with_Visualization_And_GradCAM - best 77%, Resnet50.ipynb
-**Yat Long Choi**: Resnet50.ipynb, modified_resnet.ipynb
+**Ruolong Mao**: BaselineCNN - 55%.ipynb, BaselineCNN_Improved - 62%.ipynb, Final_Model_with_Visualization_And_GradCAM - best 77%  
+**Yunshu Qiu**: Final_Model_with_Visualization_And_GradCAM - best 77%, Resnet50.ipynb  
+**Yat Long Choi**: Resnet50.ipynb, modified_resnet.ipynb  
